@@ -8,8 +8,10 @@ Max Accuracy on the test dataset - 55%
 ########
 
 Dataset was obtained from (1).
-Note the format of the dataset what changed for simplicity of usage. Sample of 200 train and 100 test are provided alongside the program files.
-Already trained MLP and CNN models are provided in the mlp_models and convo_models.
+Note the format of the dataset has been changed for simplicity of usage. Sample of 200 train and 100 test are provided alongside the program files.
+You can convert the dataset using the script provided in the scripts sub-folder.
+
+Already trained MLP and CNN models are provided in the mlp_models and convo_models. 
 
 ########
 
