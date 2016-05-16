@@ -38,11 +38,6 @@ def shared_dataset(data_xy, borrow=True):
     # lets ous get around this issue
     return shared_x, T.cast(shared_y, 'int32')
 
-def getImage(imagerow):
-    '''
-    Haven't implemented yet. Can be used to view a particular image in the dataset.
-    '''
-    pass
 
 filename = 1
 def getImage(row):
